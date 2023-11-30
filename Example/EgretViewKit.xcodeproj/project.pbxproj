@@ -21,7 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		28F317EBE8B3168FF1BC59B5 /* EgretViewKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = EgretViewKit.podspec; path = ../EgretViewKit.podspec; sourceTree = "<group>"; };
+		28F317EBE8B3168FF1BC59B5 /* EgretViewKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = EgretViewKit.podspec; path = ../EgretViewKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		3921EFB85717A997678DE4C4 /* Pods-EgretViewKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EgretViewKit_Example.debug.xcconfig"; path = "Target Support Files/Pods-EgretViewKit_Example/Pods-EgretViewKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		5BBAF80BDE03AD3773DF54EF /* Pods-EgretViewKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EgretViewKit_Example.release.xcconfig"; path = "Target Support Files/Pods-EgretViewKit_Example/Pods-EgretViewKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* EgretViewKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EgretViewKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };

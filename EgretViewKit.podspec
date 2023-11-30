@@ -7,10 +7,10 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/564057354@qq.com/EgretViewKit'
+  s.homepage         = 'https://github.com/MF-dosear/EgretViewKit'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '564057354@qq.com' => '564057354@qq.com' }
-  s.source           = { :git => 'https://github.com/564057354@qq.com/EgretViewKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/MF-dosear/EgretViewKit.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '12.0'
     
