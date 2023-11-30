@@ -1,0 +1,10 @@
+source 'https://github.com/Cocoapods/Specs.git'
+
+platform :ios, '12.0'
+
+target 'EgretViewKit_Example' do
+  
+  pod 'EgretViewKit', :path => '../'
+  pod 'RSDK'
+
+end
